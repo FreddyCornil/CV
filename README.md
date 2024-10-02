@@ -4,7 +4,7 @@
 Bienvenue à vous,
 Je m'appelle Freddy, je suis ce qu'on appelle un Dev Web Errant depuis de nombreuses années  
 Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que logicielles, particulièrement l'Intelligence Artificielle  
-[Github Officiel](https://github.com/ycfreddy)
+[Github Alternatif](https://github.com/ycfreddy)
 
 ### FORMATIONS
 - **Oreegami**
@@ -29,4 +29,4 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
     - _Développement de site internet marchands_
 
 ### HOBBIES
-- ![SimRacing](https://lemansultimate.com/)
+- [SimRacing](https://lemansultimate.com/)
