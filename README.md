@@ -2,7 +2,7 @@
 
 ### PRESENTATION
 Bienvenue à vous,
-Je m'appelle Freddy, je suis ce qu'on appelle un Dev Web Errant depuis de nombreuses années
+Je m'appelle Freddy, je suis ce qu'on appelle un Dev Web Errant depuis de nombreuses années  
 Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que logicielles, particulièrement l'Intelligence Artificielle  
 [Github Officiel](https://github.com/ycfreddy)
 
