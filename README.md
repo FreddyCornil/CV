@@ -13,7 +13,7 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
     - _Option Informatique Python_ 
 - **OpenClassrooms**
   - _Formation développeur Front-End_
-- **Conservatoire National des Arts et métiers**
+- **Conservatoire National des Arts et Métiers**
   - _UV Informatique cycle A A2_
   - _UV Algorithmique Programmation_
   - _UV Mathématique pour informatique_
