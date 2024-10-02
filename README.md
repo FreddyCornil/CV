@@ -25,7 +25,7 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
     - _Créateur et gérant de la société de développement de services internet I-DECLICK_
 - **Programmeur informatique F23 SARL**
     - _Collaborateur informatique événementielle pour scoring de compétitions sportives internationales_
-    - _Programmeur informatique PHP, Javascipt, CSS, HTML, MySql, Smarty, Flash, Visual basic_
+    - _Programmeur informatique_
     - _Développement de site internet marchands_
 
 ### HOBBIES
