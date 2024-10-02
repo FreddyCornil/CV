@@ -1,3 +1,5 @@
+!(https://avatars.githubusercontent.com/u/61626752?v=4)
+
 ### PRESENTATION
 
 Bienvenue à vous,
@@ -8,30 +10,30 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
 ### FORMATIONS
 
 - **Oreegami**
-    - Bootcamp Expert SEO
+    - _Bootcamp Expert SEO_
 
 - **D.A.E.U B Option Informatique Python**
 
 - **OpenClassrooms**
-  - Formation développeur Front-End, Javascript
+  - _Formation développeur Front-End, Javascript_
 
 
 - **Conservatoire National des Arts et métiers**
-  - UV INFORMATIQUE CYCLE A A2
-  - UV Algorithmique Programmation
-  - UV Mathématique pour informatique
+  - _UV INFORMATIQUE CYCLE A A2_
+  - _UV Algorithmique Programmation_
+  - _UV Mathématique pour informatique_
 
 - **Bac**
-  - BAC S (option Math)
+  - _BAC S (option Math)_
 
 ### EXPÉRIENCES
 
 - **Gérant Eurl I-DECLICK**
-    - Créateur et gérant de la société de développement de services internet I-DECLICK
+    - _Créateur et gérant de la société de développement de services internet I-DECLICK_
 - **Programmeur informatique F23 SARL**
-    - Collaborateur informatique événementielle pour scoring de compétitions sportives internationales
-    - Programmeur informatique PHP, Javascipt, CSS, HTML, MySql, Smarty, Flash, Visual basic
-    - Développement de site internet marchands
+    - _Collaborateur informatique événementielle pour scoring de compétitions sportives internationales_
+    - _Programmeur informatique PHP, Javascipt, CSS, HTML, MySql, Smarty, Flash, Visual basic_
+    - _Développement de site internet marchands_
 
 ### HOBBIES
 - SimRacing
