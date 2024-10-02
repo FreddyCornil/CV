@@ -1,4 +1,4 @@
-!(https://avatars.githubusercontent.com/u/61626752?v=4)
+![](https://avatars.githubusercontent.com/u/61626752?v=4)
 
 ### PRESENTATION
 
