@@ -14,7 +14,7 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
 - **OpenClassrooms**
   - _Formation développeur Front-End_
 - **Conservatoire National des Arts et métiers**
-  - _UV INFORMATIQUE CYCLE A A2_
+  - _UV Informatique cycle A A2_
   - _UV Algorithmique Programmation_
   - _UV Mathématique pour informatique_
 - **Bac**
