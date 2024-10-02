@@ -12,7 +12,7 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
 - **D.A.E.U B**
     - _Option Informatique Python_ 
 - **OpenClassrooms**
-  - _Formation développeur Front-End, Javascript_
+  - _Formation développeur Front-End_
 - **Conservatoire National des Arts et métiers**
   - _UV INFORMATIQUE CYCLE A A2_
   - _UV Algorithmique Programmation_
