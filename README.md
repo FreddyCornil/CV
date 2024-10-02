@@ -29,4 +29,4 @@ Je m'intéresse beaucoup aux nouvelles technologies, autant matérielles que log
     - _Développement de site internet marchands_
 
 ### HOBBIES
-- SimRacing
+- ![SimRacing](https://lemansultimate.com/)
